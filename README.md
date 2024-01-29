@@ -1,4 +1,4 @@
-# Replication Code for the Paper Titled "Air quality improvements can strengthen China's food security"
+# Replication Code for the Paper Titled "Inflated negative impacts of temperature on global agricultural yields due to ozone omission"
 
 ### R packages
 
